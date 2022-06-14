@@ -8,10 +8,11 @@
 - Realtor API
 - Docusign API
 - UiPath Orchestrator
+- UiPath Studio
 
 ## Features
 - SMS Chatbot to collect customer requirements for new Single-Family Home/Apartments.
-- Queries API database for relevant information about real estate properties with matching criteria.
+- Queries API database for relevant information about real estate properties and returns matching criteria.
 - Text messaging service to provide updates to end-user.
 - Docusign for signing of legal documents.
 
@@ -22,10 +23,11 @@
 - Open main.xaml on main project folder to start consumer automation.
 
 ## Contributors
+- Thomas Vo
 - Zaur Yusopov
 - Cynnetha Bellinger
 - Diahandra Christian
 - Anthony McJunkins
 
 ## License
-- This project has the following license
+- This project has the following license https://github.com/Thomaslvo/RE-Framework-Project-2/blob/main/LICENSE
